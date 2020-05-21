@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Cesar Clod Castle
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A simple programmer's safe place
 
 # Your name to show in the footer
-author: Some Person
+author: Cesar Marinho
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://cesarmarinhorj.github.io"
 
 # --- Logo --- #
 
